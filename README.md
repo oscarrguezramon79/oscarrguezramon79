@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @oscarrguezramon79 
-- 👀 I’m interested in ... el Análisis y la programación
-- 🌱 I’m currently learning ... de todo
-- 💞️ I’m looking to collaborate on ... algún proyecto
-- 📫 How to reach me ...  en el email oscarrguez@gmail.com
+- 👋 Hola, Yo soy @oscarrguezramon79 
+- 👀 Estoy interesado en ... el Análisis y la programación
+- 🌱 Estoy actualmente aprendiendo ... de todo
+- 💞️ Estoy buscando colaborar en ... algún proyecto
+- 📫 Como contactar conmigo ...  en el email oscarrguez@gmail.com
 
 <!---
 oscarrguezramon79/oscarrguezramon79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
