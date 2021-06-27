@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oscarrguezramon79 
-- 👀 I’m interested in ... el Analisis y la programación
+- 👀 I’m interested in ... el Análisis y la programación
 - 🌱 I’m currently learning ... de todo
 - 💞️ I’m looking to collaborate on ... algún proyecto
 - 📫 How to reach me ...  en el email oscarrguez@gmail.com
